@@ -974,6 +974,11 @@
       "symbol": "MoreXRP",
       "to": "coingecko#ripple"
     },
+    "0x806a72273b961145cf5c5f040ad1fcd112b3f11a": {
+  "decimals": "18",
+  "symbol": "OWO",
+  "to": "coingecko#owo"
+},
     "0xdD468A1DDc392dcdbEf6db6e34E89AA338F9F186": {
       "decimals": "18",
       "symbol": "MUSD",
